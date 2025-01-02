@@ -15,7 +15,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 .external{
@@ -26,34 +26,34 @@ body{
 }
 
 .numbers{
-    padding: 12px;
+    padding: 20px;
     color: #FFA5AB;
 }
 
 .buttons{
     display: flex;
     align-items: center;
-    padding: 9px 9px 9px 0;
+    padding: 13px 13px 13px 0;
     border-left: 3px solid #450920;
 }
 
 #plus{
     background-color: #A53860;
     border: none;
-    font-size: 30px;
+    font-size: 50px;
     color: #FFA5AB;
 }
 
 #minus{
     background-color: #A53860;
     border: none;
-    font-size: 30px;
-    padding-bottom: 8px;
+    font-size: 50px;
+    padding-bottom: 10px;
     color: #FFA5AB;
 }
   
 #line_buttons{
-    height: 30px;
+    height: 50px;
     margin: 0;
     border: 1.5px solid #450920;
 }
