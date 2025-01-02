@@ -37,14 +37,14 @@ body{
     border-left: 3px solid #450920;
 }
 
-.plus{
+#plus{
     background-color: #A53860;
     border: none;
     font-size: 30px;
     color: #FFA5AB;
 }
 
-.minus{
+#minus{
     background-color: #A53860;
     border: none;
     font-size: 30px;

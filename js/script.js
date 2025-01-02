@@ -2,6 +2,9 @@ const plus = document.createElement("button");
 const minus = document.createElement("button");
 const output = document.createElement("span");
 
+plus.id = 'plus';
+minus.id = 'minus';
+
 plus.innerHTML = "+";
 minus.innerHTML = "-";
 output.innerHTML = "0";
