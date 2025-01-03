@@ -1,57 +1,59 @@
 # counter_application
-Counter application It is an application that allows the user to increase or decrease an initial value
+Counter application is an application that allows the user to increase or decrease an initial value
 
-# Applicazione counter
+# Counter Application
 
-> **Counter** è un'applicazione che permette di incrementare o decrementare un valore numerico, partendo da 0. È possibile aggiungere o sottrarre numeri positivi o negativi tramite due pulsanti.
-
----
-
-## Sommario
-
-- [Introduzione](#introduzione)
-- [Funzionalità](#funzionalità)
-- [Installazione](#installazione)
-- [link](#link)
-- [Utilizzo](#utilizzo)
-- [Struttura del Progetto](#struttura-del-progetto)
-- [Tecnologie Utilizzate](#tecnologie-utilizzate)
-- [Contribuire](#contribuire)
-- [Licenza](#licenza)
-- [Contatti](#contatti)
+> **Counter** is an application designed to increment or decrement a numerical value, starting from 0. Users can increase or decrease the value by clicking the respective buttons.
 
 ---
 
-## Introduzione
+## Table of Contents
 
-Questo progetto è stato realizzato come esercitazione su JavaScript durante il corso di **Start2Impact**. L’obiettivo è creare un'applicazione che consenta agli utenti di incrementare o decrementare un valore iniziale, partendo da 0. 
-Caratteristiche principali del progetto:  
-- Il valore iniziale "0" deve essere sempre visualizzato all’avvio. 
-- I pulsanti "+" e "-" sono generati dinamicamente tramite manipolazione del DOM in JavaScript. 
-- Non è permesso l’utilizzo di framework. 
-- Il progetto include design responsive (mobile first) e una gestione degli errori per garantire il corretto funzionamento.
-
----
-
-## Funzionalità
-
-- Visualizzazione del valore iniziale (0). 
-- Incremento del valore tramite il pulsante "+". 
-- Decremento del valore tramite il pulsante "-". 
-- Design responsive (mobile first). 
-- Gestione degli errori per verificare la corretta creazione dei pulsanti e del valore iniziale.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Link](#link)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 
-## Installazione
+## Introduction
 
-1. Clona il repository:
+This project was created as a JavaScript exercise during the **Start2Impact** course.  
+The goal is to build an application that allows users to increment or decrement a starting value of 0.  
+
+Key aspects of the project:  
+- The initial value "0" is always displayed on startup.  
+- The "+" and "-" buttons are dynamically generated using DOM manipulation with JavaScript.  
+- Frameworks are not allowed.  
+- The project includes a mobile-first responsive design and error handling to ensure that the buttons and initial value are correctly created before being displayed.
+
+---
+
+## Features
+
+- Display of the initial value (0).  
+- Increment the value using the "+" button.  
+- Decrement the value using the "-" button.  
+- Mobile-first responsive design.  
+- Error handling to ensure proper creation of buttons and the initial value.
+
+---
+
+## Installation
+
+1. Clone the repository:
    git clone https://github.com/Gibilli/counter_application.git
-2. Entra nella directory del progetto:
+2. Navigate to the project directory
    cd counter_application
-3. Installa le dipendenze:
+3. Installation dependencies:
    npm install
-4. Avvia il progetto:
+4. Start the project:
    npm start
 
 ---
@@ -60,36 +62,18 @@ Caratteristiche principali del progetto:
 
 
 ---
-## Utilizzo
 
-L’applicazione è semplice da usare:
-* Incrementa: Clicca sul pulsante "+" per aggiungere al valore visualizzato.
-* Decrementa: Clicca sul pulsante "-" per sottrarre dal valore visualizzato.
-All’avvio, il valore iniziale sarà sempre 0.
+## Usage
 
-
----
-
-## Struttura del Progetto
-
-counter_application/
-├── assets/
-
-│   ├── js/
-
-│   │   └── script.js
-
-│   ├── css/
-
-│       └── style.css
-
-├── index.html
-
+The application is simple to use:
+* Increment: Click the "+" button to increase the displayed value.
+* Decrement: Click the "-" button to decrease the displayed value.
+On startup, the initial value will always be 0.
 
 
 ---
 
-## Tecnologie Utilizzate
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -97,26 +81,26 @@ counter_application/
 
 ---
 
-## Contribuire
+## Contributing
 
-1. Fai un fork del repository.
-2. Crea un branch con la tua feature:
-   git checkout -b nome-feature
-3. Fai un commit delle modifiche:
-   git commit -m 'Aggiunta nuova feature'
-4. Fai un push al branch:
-   git push origin nome-feature
-5. Apri una pull request.
+1. Fork the repository.
+2. Create a new branch for your feature:
+   git checkout -b feature-name
+3. Commit your changes:
+   git commit -m 'Add a new feature'
+4. Push to the branch:
+   git push origin feature-name
+5. Open a pull request.
 
 ---
 
 ## Licenza
 
-Questo progetto è distribuito sotto la licenza MIT. Per maggiori informazioni, consulta il file [LICENSE](LICENSE).
+This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 ---
 
-## Contatti
+## Contacts
 
 - **Email:** ginevrabilli22@gmail.com
 - **GitHub:** [gibilli](https://github.com/Gibilli)
