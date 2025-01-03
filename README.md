@@ -59,7 +59,7 @@ Key aspects of the project:
 ---
 
 ## Link
-
+https://gibilli.github.io/counter.application.github.io/
 
 ---
 
