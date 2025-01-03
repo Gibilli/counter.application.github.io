@@ -32,6 +32,7 @@ Key aspects of the project:
 - The "+" and "-" buttons are dynamically generated using DOM manipulation with JavaScript.  
 - Frameworks are not allowed.  
 - The project includes a mobile-first responsive design and error handling to ensure that the buttons and initial value are correctly created before being displayed.
+- Included og tags for sharing the project on socials
 
 ---
 
