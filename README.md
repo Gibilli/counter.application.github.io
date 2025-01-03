@@ -24,7 +24,11 @@ Counter application It is an application that allows the user to increase or dec
 
 ## Introduzione
 
-Questo progetto è stato realizzato come esercitazione su JavaScript durante il corso di **Start2Impact**. L’obiettivo è creare un'applicazione che consenta agli utenti di incrementare o decrementare un valore iniziale, partendo da 0. Caratteristiche principali del progetto:  - Il valore iniziale "0" deve essere sempre visualizzato all’avvio. - I pulsanti "+" e "-" sono generati dinamicamente tramite manipolazione del DOM in JavaScript. - Non è permesso l’utilizzo di framework. - Il progetto include design responsive (mobile first) e una gestione degli errori per garantire il corretto funzionamento.
+Questo progetto è stato realizzato come esercitazione su JavaScript durante il corso di **Start2Impact**. L’obiettivo è creare un'applicazione che consenta agli utenti di incrementare o decrementare un valore iniziale, partendo da 0. Caratteristiche principali del progetto:  
+- Il valore iniziale "0" deve essere sempre visualizzato all’avvio. 
+- I pulsanti "+" e "-" sono generati dinamicamente tramite manipolazione del DOM in JavaScript. 
+- Non è permesso l’utilizzo di framework. 
+- Il progetto include design responsive (mobile first) e una gestione degli errori per garantire il corretto funzionamento.
 
 ---
 
